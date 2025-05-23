@@ -59,3 +59,9 @@ Save notebook
 Terminate Spark session
 
 Delete workspace
+
+👤 **Author: Sefa Öztürk**
+
+IT Intern | Azure Data Engineer (Ongoing)
+
+**📇 LinkedIn: https://www.linkedin.com/in/sefa-ozturk1972**
